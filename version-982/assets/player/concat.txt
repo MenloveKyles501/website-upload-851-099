@@ -1,0 +1,13 @@
+file '/mnt/data/hkgu_site/assets/player/slides/01.jpg'
+duration 2
+file '/mnt/data/hkgu_site/assets/player/slides/02.jpg'
+duration 2
+file '/mnt/data/hkgu_site/assets/player/slides/03.jpg'
+duration 2
+file '/mnt/data/hkgu_site/assets/player/slides/04.jpg'
+duration 2
+file '/mnt/data/hkgu_site/assets/player/slides/05.jpg'
+duration 2
+file '/mnt/data/hkgu_site/assets/player/slides/06.jpg'
+duration 2
+file '/mnt/data/hkgu_site/assets/player/slides/06.jpg'
